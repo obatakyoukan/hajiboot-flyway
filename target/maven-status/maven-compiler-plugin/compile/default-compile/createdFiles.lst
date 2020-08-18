@@ -1,0 +1,7 @@
+com/example/api/CustomerRestController.class
+com/example/web/CustomerController.class
+com/example/domain/Customer.class
+com/example/repository/CustomerRepository.class
+com/example/web/CustomerForm.class
+com/example/service/CustomerService.class
+com/example/HajibootFlywayApplication.class
