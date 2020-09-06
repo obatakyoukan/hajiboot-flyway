@@ -4,3 +4,4 @@
 
 できない場合は，spring initializrから適当にダウンロードしてmvnwをもらう．
 
+heroku
